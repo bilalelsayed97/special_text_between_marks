@@ -1,0 +1,20 @@
+name: special_text_between_marks
+description: "A Flutter package for easy text formatting with customizable styles between specified marks."
+version: 0.0.1
+homepage: https://github.com/bilalelsayed97/special_text_between_marks
+repository: https://github.com/bilalelsayed97/special_text_between_marks
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
